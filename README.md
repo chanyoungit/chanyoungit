@@ -1,5 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyoungit)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/chanyoungit"/>
+</a>
 
 Here are some ideas to get you started:
 
@@ -11,8 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/chanyoungit"/>
-</a>
