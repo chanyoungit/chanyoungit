@@ -101,6 +101,10 @@
   <li>2022.02.25 <strong>한국사능력검정시험 1급</strong></li>
 </ul>
 
+|대회|대회설명|
+|:---:|:---:|
+|<strong>[부하 테스트](https://github.com/chanyoungit/large-scale-load-testing-challenge)<strong>|대용략 트래픽 부하 테스트|
+
 <!-- 게임 -->
 ## 🕹️ Git Animals
 <a href="https://github.com/devxb/gitanimals">
