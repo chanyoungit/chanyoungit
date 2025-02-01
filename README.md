@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-269539?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </p>
