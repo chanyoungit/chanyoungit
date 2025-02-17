@@ -76,7 +76,7 @@
 ## 💾 Projects
 |프로젝트|프로젝트설명|기간|프로젝트유형|
 |:---:|:---:|:---:|:---:|
-|<strong>[Devita](https://github.com/chanyoungit/devita-app-backend)<strong>|개발자 맞춤 성장 미션 <br>제공 서비스|2024.09 ~ 2025.01|카카오테크|
+|<strong>[Devita](https://github.com/KTB-FinalProject-Team1/Devita_Backend/tree/master)<strong>|개발자 맞춤 성장 미션 <br>제공 서비스|2024.09 ~ 2025.01|카카오테크|
 |<strong>[TradeHam](https://github.com/chanyoungit/tradeham-backend)<strong>|사물함을 이용한 <br> 중고거래 플랫폼|2024.08 ~ 2024.12|백엔드 스터디|
 |<strong>[HowAbout](https://github.com/HowwAbout)<strong>|AI를 활용한 데이트 계획 <br>작성 및 추천 서비스|2024.06 ~ 2023.08|카카오테크|
 |<strong>[ChatToDo](https://github.com/ktb-hackerthon)<strong>|LLM을 활용한 <br> AI Assistance|2024.09.04 ~ 07|해커톤|
